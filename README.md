@@ -1,3 +1,8 @@
+#pip install pandas openpyxl matplotlib
+#python a.py
+#python graph1.py
+#python graph2.py
+
 ## Introduction
 
 The project **“Where Does a College Student’s Money Go?”** was conducted to understand how college students receive, spend, save, and manage their money. The survey collected responses from 35 college students and focused on their monthly financial habits, major spending categories, savings, budgeting, expense tracking, and unplanned purchases.
